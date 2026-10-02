@@ -1,4 +1,4 @@
-# CoreX Android v1.2.7
+# CoreX Android v1.2.8
 
 Latest Android build of CoreX Trading Terminal.
 
