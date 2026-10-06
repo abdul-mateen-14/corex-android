@@ -1,4 +1,4 @@
-# CoreX Android v1.2.8
+# CoreX Android v1.2.13
 
 Latest Android build of CoreX Trading Terminal.
 
@@ -15,7 +15,7 @@ Download the APK below and install it on your Android device.
 
 ## SHA-256
 
-`2b69e599f03714bc2f18081d518eeba8f49a2993d46c4673fbfe82f375e3d7f9`
+`8634b357782d2e75ccef4437ab53eac44c66ea3facf117e378d3cef53971ff3d`
 
 🌐 Official website:
 https://corex.site.je
