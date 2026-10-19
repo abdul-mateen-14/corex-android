@@ -20,3 +20,6 @@ Download the APK below and install it on your Android device.
 
 🌐 Official website:
 https://corex.site.je
+
+VirusTotal Result:
+[Click here to Check] (https://www.virustotal.com/gui/file/d171cb43d9ca95254442635b182056e53644a33bd4d1b327b73979e996727d9c)
