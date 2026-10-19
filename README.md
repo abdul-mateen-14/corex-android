@@ -5,6 +5,7 @@ Latest Android build of CoreX Trading Terminal.
 ## What's new
 
 - Latest CoreX Android build
+- New UI "Mono x Glass"
 - Bug fixes
 - Performance improvements
 - Latest available features
