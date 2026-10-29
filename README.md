@@ -15,10 +15,10 @@ Download the APK below and install it on your Android device.
 
 ## SHA-256
 
-`d171cb43d9ca95254442635b182056e53644a33bd4d1b327b73979e996727d9c`
+`45750a5b2bb0cab0b08261090003893eb71eccb47410aab8ffd3b042ef2e558e`
 
 🌐 Official website:
 https://corex.site.je
 
 VirusTotal Result:
-https://www.virustotal.com/gui/file/d171cb43d9ca95254442635b182056e53644a33bd4d1b327b73979e996727d9c
+https://www.virustotal.com/gui/file/45750a5b2bb0cab0b08261090003893eb71eccb47410aab8ffd3b042ef2e558e
