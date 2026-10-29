@@ -1,11 +1,10 @@
-# CoreX Android v1.2.14
+# CoreX Android v1.3.7
 
 Latest Android build of CoreX Trading Terminal.
 
 ## What's new
 
 - Latest CoreX Android build
-- New UI "Mono x Glass"
 - Bug fixes
 - Performance improvements
 - Latest available features
